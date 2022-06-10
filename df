@@ -1,0 +1,59 @@
+* [33mcommit 5cf5d8c5aa40a511ddab04d31cf021337222b80c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: liujian <liu_jian01@inspur.com>
+[31m|[m Date:   Fri Jun 10 16:12:04 2022 +0800
+[31m|[m 
+[31m|[m     branch test
+[31m|[m 
+* [33mcommit 5b4d78d066de5b7ab89b1d4fcecbb22d8446e88f[m[33m ([m[1;31morigin/master[m[33m)[m
+[31m|[m Author: liujian <liu_jian01@inspur.com>
+[31m|[m Date:   Fri Jun 10 15:42:14 2022 +0800
+[31m|[m 
+[31m|[m     update name
+[31m|[m 
+* [33mcommit f7dd2ef031b09136a7ca5bdb9b60b439e255380f[m
+[31m|[m Author: dwliujian <liu_jian01@inspur.com>
+[31m|[m Date:   Tue May 31 14:48:30 2022 +0800
+[31m|[m 
+[31m|[m     remove test.txt
+[31m|[m 
+* [33mcommit 054011344c8f12c2d09e98a67bece79263eb331b[m
+[31m|[m Author: dwliujian <liu_jian01@inspur.com>
+[31m|[m Date:   Tue May 31 14:46:23 2022 +0800
+[31m|[m 
+[31m|[m     add test.txt
+[31m|[m 
+* [33mcommit d30b5d2e53a4ecf189dd4ae7e76c0de875ed85ee[m
+[31m|[m Author: dwliujian <liu_jian01@inspur.com>
+[31m|[m Date:   Tue May 31 14:35:01 2022 +0800
+[31m|[m 
+[31m|[m     git tracks changes of files
+[31m|[m 
+* [33mcommit 094dca43eb2c031487a7de542609116758ec8e27[m
+[31m|[m Author: dwliujian <liu_jian01@inspur.com>
+[31m|[m Date:   Tue May 31 14:30:05 2022 +0800
+[31m|[m 
+[31m|[m     git tracks changes
+[31m|[m 
+* [33mcommit ff197696771a163ffbdcfcc8aa50c82c16681edb[m
+[31m|[m Author: dwliujian <liu_jian01@inspur.com>
+[31m|[m Date:   Tue May 31 14:23:31 2022 +0800
+[31m|[m 
+[31m|[m     understand how stage works
+[31m|[m 
+* [33mcommit e3c3eed3709d355d448d6fd45eb53186bba004aa[m
+[31m|[m Author: dwliujian <liu_jian01@inspur.com>
+[31m|[m Date:   Tue May 31 11:32:04 2022 +0800
+[31m|[m 
+[31m|[m     append GPL
+[31m|[m 
+* [33mcommit 3968af9e12477ae456799b60bdd07302c15079c3[m
+[31m|[m Author: dwliujian <liu_jian01@inspur.com>
+[31m|[m Date:   Tue May 31 11:30:30 2022 +0800
+[31m|[m 
+[31m|[m     add distributed
+[31m|[m 
+* [33mcommit a8b79bd8b65c96df543a9fc5c4303a77d46377e5[m
+  Author: dwliujian <liu_jian01@inspur.com>
+  Date:   Tue May 31 11:00:28 2022 +0800
+  
+      wrote a readme file
